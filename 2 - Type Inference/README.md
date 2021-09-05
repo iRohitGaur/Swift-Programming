@@ -1,1 +1,1 @@
-![Constants and Variables](2.gif)
+![Type Inference](2.gif)
